@@ -1,0 +1,7 @@
+<suite name="suite1">
+<test name="test1">
+<classes>
+<class name="Pages.Pepperfry"/>
+</classes>
+</test>
+</suite>
